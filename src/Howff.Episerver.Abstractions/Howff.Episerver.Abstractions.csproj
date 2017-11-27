@@ -1,7 +1,22 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Howff.Episerver.Abstractions</AssemblyName>
+    <Authors>Peter Korsbäck</Authors>
+    <Description>Interfaces and adapters for testability in Episerver projects</Description>
+    <PackageId>Howff.Episerver.Abstractions</PackageId>
+    <PackageIconUrl>https://TODO</PackageIconUrl>
+    <PackageLicenseUrl>https://TODO</PackageLicenseUrl>
+    <PackageProjectUrl>https://TODO</PackageProjectUrl>
+    <RepositoryUrl>https://TODO</RepositoryUrl>
+    <Tags>episerver</Tags>
+    <TargetFramework>net45</TargetFramework>
+    <Title>Howff Episerver Abstractions</Title>
+    <VersionPrefix>0.1.0</VersionPrefix>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPiServer.CMS.Core" Version="10.10.4" />
+  </ItemGroup>
 
 </Project>
