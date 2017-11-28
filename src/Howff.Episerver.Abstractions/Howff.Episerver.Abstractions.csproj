@@ -10,17 +10,14 @@
     <PackageProjectUrl>https://TODO</PackageProjectUrl>
     <RepositoryUrl>https://TODO</RepositoryUrl>
     <Tags>episerver</Tags>
-    <TargetFramework>net45</TargetFramework>
+    <TargetFramework>net461</TargetFramework>
     <Title>Howff Episerver Abstractions</Title>
     <VersionPrefix>0.2.0</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EPiServer.CMS.Core" Version="10.10.4" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="System.Web" />
+    <PackageReference Include="EPiServer.CMS.AspNet" Version="11.1.0" />
+    <PackageReference Include="EPiServer.CMS.Core" Version="11.1.0" />
   </ItemGroup>
 
 </Project>
