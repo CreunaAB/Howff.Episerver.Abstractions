@@ -6,9 +6,9 @@
     <Description>Interfaces and adapters for testability in Episerver projects</Description>
     <PackageId>Howff.Episerver.Abstractions</PackageId>
     <PackageIconUrl>https://TODO</PackageIconUrl>
-    <PackageLicenseUrl>https://TODO</PackageLicenseUrl>
-    <PackageProjectUrl>https://TODO</PackageProjectUrl>
-    <RepositoryUrl>https://TODO</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/CreunaAB/Howff.Episerver.Abstractions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/CreunaAB/Howff.Episerver.Abstractions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CreunaAB/Howff.Episerver.Abstractions</RepositoryUrl>
     <Tags>episerver</Tags>
     <TargetFramework>net461</TargetFramework>
     <Title>Howff Episerver Abstractions</Title>
